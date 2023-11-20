@@ -11,6 +11,3 @@
 1. Google Apps Scriptプロジェクトを作成し、スクリプトファイルにこのコードをコピーします。
 2. `calendarId`, `emailToCheck`, `additionalAttendee`の値を設定します。
 3. スクリプトを実行するか、定期的に実行するためのトリガーを設定します。
-
-## ライセンス
-このプロジェクトは[MITライセンス](LICENSE)の下で提供されています。
